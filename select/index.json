@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Remember the Time",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-02-15T12:23:34.539069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Remember the Time",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Remember_the_Time_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Remember the Time",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Remember_the_Time_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Remember the Time (Silky Soul 7)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/03_Remember_the_Time_(Silky_Soul_7)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Remember the Time (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Remember_the_Time_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do U Remember the Time",
+      "artist": "JMSN",
+      "has_synced": true,
+      "path": "select/05_Do_U_Remember_the_Time_JMSN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Remember the Time",
+      "artist": "Nana Darkman",
+      "has_synced": true,
+      "path": "select/06_Remember_the_Time_Nana_Darkman.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Remember The Time",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Remember_The_Time_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Remember The Time",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Remember_The_Time_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Remember The Time",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/09_Remember_The_Time_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Remember The Time",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_Remember_The_Time_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Remember the Time",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Remember_the_Time_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Remember The Time",
+      "artist": "Micheal Jackson",
+      "has_synced": true,
+      "path": "select/12_Remember_The_Time_Micheal_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Remember The Time (1992)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Remember_The_Time_(1992)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remember The Time",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Remember_The_Time_Michael_Jackson.txt"
+    }
+  ]
+}
